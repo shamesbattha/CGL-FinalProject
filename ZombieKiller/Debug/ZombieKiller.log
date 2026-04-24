@@ -1,0 +1,10 @@
+﻿  ZombieKiller.cpp
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(213,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(220,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(451,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(452,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(455,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(456,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(457,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TOPLAPTOP\Desktop\ZombieKiller\ZombieKiller\ZombieKiller.cpp(458,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ZombieKiller.vcxproj -> C:\Users\TOPLAPTOP\Desktop\ZombieKiller\Debug\ZombieKiller.exe
