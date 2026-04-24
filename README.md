@@ -1,7 +1,5 @@
 # CGL-FinalProject
-video()
-
-
+video(https://drive.google.com/file/d/1iw9HeTkf_8hEZrHFxu_D2g99tJL60oRB/view?usp=sharing)
 
   Game (Zombie Killer) (Shooter)
 Game Scenario :
